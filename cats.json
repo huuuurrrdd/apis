@@ -1,8 +1,8 @@
-
 [
-    {
+  {
     "cat": {
       "name": "Whiskers",
+      "age": 3,
       "facts": [
         "Cats have retractable claws.",
         "A group of cats is called a clowder.",
@@ -12,10 +12,10 @@
       "picture_url": "https://cataas.com/cat"
     }
   },
-
   {
     "cat": {
       "name": "Mittens",
+      "age": 2,
       "facts": [
         "Cats have five toes on their front paws but only four on their back paws.",
         "Cats can make over 100 different sounds.",
@@ -28,6 +28,7 @@
   {
     "cat": {
       "name": "Shadow",
+      "age": 4,
       "facts": [
         "Cats whiskers are roughly as wide as their body.",
         "Cats use their whiskers to measure openings and spaces.",
@@ -40,6 +41,7 @@
   {
     "cat": {
       "name": "Smokey",
+      "age": 5,
       "facts": [
         "Cats have a special reflective layer behind their retinas called the tapetum lucidum.",
         "Smokey has a soft, fluffy gray coat.",
@@ -52,6 +54,7 @@
   {
     "cat": {
       "name": "Luna",
+      "age": 2,
       "facts": [
         "Cats use their tails for balance.",
         "Luna has striking green eyes.",
@@ -64,6 +67,7 @@
   {
     "cat": {
       "name": "Oliver",
+      "age": 1,
       "facts": [
         "Cats can rotate their ears 180 degrees.",
         "Oliver has a playful and curious personality.",
@@ -76,6 +80,7 @@
   {
     "cat": {
       "name": "Cleo",
+      "age": 3,
       "facts": [
         "Cats have a strong territorial instinct.",
         "Cleo enjoys sunbathing by the window.",
@@ -88,6 +93,7 @@
   {
     "cat": {
       "name": "Simba",
+      "age": 4,
       "facts": [
         "Cats have a unique grooming pattern.",
         "Simba has a regal and majestic demeanor.",
@@ -100,6 +106,7 @@
   {
     "cat": {
       "name": "Whisper",
+      "age": 2,
       "facts": [
         "Cats have an excellent sense of hearing.",
         "Whisper is known for being quiet and reserved.",
@@ -112,6 +119,7 @@
   {
     "cat": {
       "name": "Max",
+      "age": 6,
       "facts": [
         "Cats have a third eyelid called the haw.",
         "Max is a skilled hunter of toy mice.",
